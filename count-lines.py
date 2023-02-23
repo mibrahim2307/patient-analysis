@@ -1,3 +1,7 @@
+""" this module counts the number of lines in a standard input
+input: string from the system standard input
+""""
+
 import sys
 
 count=0
